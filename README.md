@@ -19,7 +19,6 @@
 - 🔩 Comfortable close to the hardware too, Verilog/FPGA digital logic design, embedded C, and firmware/sensor integration
 - 🐍 Extensive assembly language experience from freelance work
 - 📐 Straight A's in Digital Logic Design, Logic & Sequential Circuits, and VLSI Circuit Design
-- 🌱 Currently building a custom Python animation library (inspired by Manim) to produce short-form conceptual videos
 
 ---
 
